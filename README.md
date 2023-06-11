@@ -1,18 +1,18 @@
 Hello!
 
-My name is Dmitry (/dimitri/ <a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=%20&color=gray&logo=volume-high-custom"></a>), he/him.
+My name is Dmitry (/dimitri/ <a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>), my pronouns are he/him.
 
 I am a software developer.
 
 I have 10+ years of experience with web development. My preferable tooling is
-Ruby, Ruby on Rails, PostgreSQL, and Vue.js.
+Ruby, Ruby on Rails, RSpec, PostgreSQL, and Vue.js.
 I also know express.js, Ansible, and Rust.
 
 I am a full stack web developer with an extreme focus on automated test **and**
 code maintainability.
 
-I am (sometimes) not happy but always proud of doing some Rails upgrades. Send me a
-message if you need help!
+I am (sometimes) not happy but always proud of doing some Rails upgrade. Send
+me a message if you need help!
 
 ---
 
@@ -55,5 +55,5 @@ README built with help from:
 * https://github.com/anuraghazra/github-readme-stats
 * https://shields.io
 * https://github.com/DenverCoder1/custom-icon-badges
-* Google Text2Speach
+* https://cloud.google.com/text-to-speech/
 * https://pictogrammers.com
