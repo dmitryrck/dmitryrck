@@ -6,7 +6,7 @@ I am a software developer.
 
 I have 10+ years of experience with web development. My preferable tooling is
 Ruby, Ruby on Rails, RSpec, PostgreSQL, and Vue.js.
-I also know express.js, Ansible, and Rust.
+I also know Docker, express.js, Ansible, and Rust.
 
 I am a full stack web developer with an extreme focus on automated test **and**
 code maintainability.
@@ -26,7 +26,7 @@ Open source projects I participate:
   <dd>Docker and nix files to run Ruby in CI and production servers</dd>
 
   <dt>https://github.com/rubynz/membership-register</dt>
-  <dd>Super simple app to keep track of membership of New Zealand Ruby Society</dd>
+  <dd>Super simple app to keep track the memberships of the New Zealand Ruby Society</dd>
 </dl>
 
 ---
