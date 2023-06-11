@@ -1,6 +1,6 @@
 Hello!
 
-My name is Dmitry (/dimitri/ <a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>), my pronouns are he/him.
+My name is Dmitry <a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img alt="pronunciation of dimitri" src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>, my pronouns are he/him.
 
 I am a software developer.
 
