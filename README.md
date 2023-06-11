@@ -1,6 +1,6 @@
 Hello!
 
-My name is Dmitry <a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img alt="pronunciation of dimitri" src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>, my pronouns are he/him.
+My name is Dmitry (<a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img alt="pronunciation of dimitri" src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>), my pronouns are he/him.
 
 I am a software developer.
 
@@ -24,11 +24,11 @@ Open source projects I participate:
 
   <dt>https://github.com/dmitryrck/ruby-ci</dt>
   <dd>Docker and nix files to run Ruby in CI and production servers</dd>
-  
+
   <dt>https://github.com/rubynz/membership-register</dt>
   <dd>Super simple app to keep track of membership of New Zealand Ruby Society</dd>
 </dl>
-  
+
 ---
 
 You can find me here:
