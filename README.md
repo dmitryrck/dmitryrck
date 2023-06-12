@@ -35,7 +35,9 @@ You can find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitryrck/)
 [![Website](https://img.shields.io/badge/website-white?style=for-the-badge&logo=markdown&logoColor=black)](https://dmitryrck.github.io)
-[![Mastodon](https://img.shields.io/mastodon/follow/109404472254408241?domain=https%3A%2F%2Fyetanother.place&style=for-the-badge)](https://yetanother.place/@dmitry)
+<a rel="me" href="https://yetanother.place/@dmitry">
+<img alt="Follow me on Mastodon" src="https://img.shields.io/mastodon/follow/109404472254408241?domain=https%3A%2F%2Fyetanother.place&style=for-the-badge">
+</a>
 
 And my CV is always updated here: https://dmitryrck.com/cv.pdf
 
