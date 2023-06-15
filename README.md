@@ -1,18 +1,18 @@
 Hello!
 
-My name is Dmitry (<a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img alt="pronunciation of dimitri" src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>), my pronouns are he/him.
-
-I am a software developer.
-
-I have 10+ years of experience with web development. My preferable tooling is
-Ruby, Ruby on Rails, RSpec, PostgreSQL, and Vue.js.
-I also know Docker, express.js, Ansible, and Rust.
+My name is Dmitry (<a target="_blank" href="https://dmitryrck.com/en-US-Wavenet-C-FEMALE.mp3"><img alt="pronunciation of dimitri" src="https://custom-icon-badges.demolab.com/static/v1?label=pronunciation&message=/dimitri/&color=gray&logo=volume-high-custom"></a>), he/him.
 
 I am a full stack web developer with an extreme focus on automated test **and**
 code maintainability.
 
+I have 10+ years of experience with web development. My preferable tooling is
+Ruby, Ruby on Rails, RSpec, PostgreSQL, and Vue.js.
+I also know Docker, express.js, Ansible, Rust, a bit of C++, and a few other stuff.
+
 I am (sometimes) not happy but always proud of doing some Rails upgrade. Send
 me a message if you need help!
+
+I speak English and Brazilian Portuguese.
 
 ---
 
@@ -39,7 +39,7 @@ You can find me here:
 <img alt="Follow me on Mastodon" src="https://img.shields.io/mastodon/follow/109404472254408241?domain=https%3A%2F%2Fyetanother.place&style=for-the-badge">
 </a>
 
-And my CV is always updated here: https://dmitryrck.com/cv.pdf
+My CV is always updated here: https://dmitryrck.com/cv.pdf
 
 ---
 
